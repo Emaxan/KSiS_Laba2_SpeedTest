@@ -1,0 +1,82 @@
+System.Net.Sockets Verbose: 0 : [11840] Socket#2383799::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#2383799::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] DNS::GetHostAddresses(MAX-WIN10-X64)
+System.Net.Sockets Verbose: 0 : [11840] DNS::GetHostByName(MAX-WIN10-X64)
+System.Net.Sockets Verbose: 0 : [11840] Exiting DNS::GetHostByName() 	-> IPHostEntry#58870012
+System.Net.Sockets Verbose: 0 : [11840] Exiting DNS::GetHostAddresses() 	-> IPAddress[]#60068066
+System.Net.Sockets Verbose: 0 : [11840] Socket#3741682::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#3741682::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#33675143::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#33675143::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#34640832::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#34640832::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#43332040::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#43332040::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] DNS::GetHostAddresses(MAX-WIN10-X64)
+System.Net.Sockets Verbose: 0 : [11840] DNS::GetHostByName(MAX-WIN10-X64)
+System.Net.Sockets Verbose: 0 : [11840] Exiting DNS::GetHostByName() 	-> IPHostEntry#54444047
+System.Net.Sockets Verbose: 0 : [11840] Exiting DNS::GetHostAddresses() 	-> IPAddress[]#20234383
+System.Net.Sockets Verbose: 0 : [11840] Socket#47891719::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#47891719::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#47891719::Bind(192.168.184.1:9000#28871656)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#47891719::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#3741682::Bind(192.168.184.1:9050#28871578)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#3741682::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#47891719::SendTo()
+System.Net.Sockets Verbose: 0 : [11840] Data from Socket#47891719::SendTo
+System.Net.Sockets Verbose: 0 : [11840] 00000000 : 53 65 72 76 65 72 3F 74-C3 80 C2 A8 C2 B8 01    : Server?t.......
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#47891719::SendTo() 	-> Int32#15
+System.Net.Sockets Verbose: 0 : [11840] Socket#28372289::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#28372289::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#28372289::Bind(192.168.140.1:8999#25988071)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#28372289::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#33675143::Bind(192.168.140.1:9049#25987993)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#33675143::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#28372289::SendTo()
+System.Net.Sockets Verbose: 0 : [11840] Data from Socket#28372289::SendTo
+System.Net.Sockets Verbose: 0 : [11840] 00000000 : 53 65 72 76 65 72 3F 74-C3 80 C2 A8 C2 8C 01    : Server?t.......
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#28372289::SendTo() 	-> Int32#15
+System.Net.Sockets Verbose: 0 : [11840] Socket#54024015::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#54024015::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#54024015::Bind(192.168.1.3:8998#50432998)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#54024015::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#34640832::Bind(192.168.1.3:9048#50432920)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#34640832::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#54024015::SendTo()
+System.Net.Sockets Verbose: 0 : [11840] Data from Socket#54024015::SendTo
+System.Net.Sockets Verbose: 0 : [11840] 00000000 : 53 65 72 76 65 72 3F 74-C3 80 C2 A8 01 03       : Server?t......
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#54024015::SendTo() 	-> Int32#14
+System.Net.Sockets Verbose: 0 : [11840] Socket#16454088::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#16454088::Socket() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#16454088::Bind(25.23.16.212:8997#-737135556)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#16454088::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#43332040::Bind(25.23.16.212:9047#-737135538)
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#43332040::Bind() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#16454088::SendTo()
+System.Net.Sockets Verbose: 0 : [11840] Data from Socket#16454088::SendTo
+System.Net.Sockets Verbose: 0 : [11840] 00000000 : 53 65 72 76 65 72 3F 74-19 17 10 C3 94          : Server?t.....
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#16454088::SendTo() 	-> Int32#13
+System.Net.Sockets Verbose: 0 : [11840] Socket#3741682::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#3741682::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#3741682::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#33675143::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#33675143::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#33675143::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#34640832::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#34640832::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#34640832::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#43332040::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#43332040::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#43332040::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#47891719::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#47891719::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#47891719::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#28372289::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#28372289::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#28372289::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#54024015::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#54024015::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#54024015::Close() 
+System.Net.Sockets Verbose: 0 : [11840] Socket#16454088::Close()
+System.Net.Sockets Verbose: 0 : [11840] Socket#16454088::Dispose()
+System.Net.Sockets Verbose: 0 : [11840] Exiting Socket#16454088::Close() 

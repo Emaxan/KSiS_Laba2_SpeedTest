@@ -1,0 +1,16 @@
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Server.exe.config
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Server.exe
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Server.pdb
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\obj\Debug\KSiS_Laba2_Server.csprojResolveAssemblyReference.cache
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\obj\Debug\KSiS_Laba2_Server.exe
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\obj\Debug\KSiS_Laba2_Server.pdb
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Kernel.dll
+E:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Kernel.pdb
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Server.exe.config
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Server.exe
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Server.pdb
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Kernel.dll
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\bin\Debug\KSiS_Laba2_Kernel.pdb
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\obj\Debug\KSiS_Laba2_Server.csprojResolveAssemblyReference.cache
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\obj\Debug\KSiS_Laba2_Server.exe
+D:\Programs\VS\_KSIS\KSiS_Laba2\KSiS_Laba2_Server\obj\Debug\KSiS_Laba2_Server.pdb
